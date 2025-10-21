@@ -59,16 +59,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-| Project Name | Description | Technologies | Link |
-|--------------|-------------|--------------|------|
-| **Invoice Financing Platform** | A SaaS web application to facilitate SMEs in selling invoices to funders, pitched to major clients like Petronas. | Grails, PostgreSQL, AWS |
-| **Haulage SaaS Platform** | A logistics application connecting haulage operators, freight forwarders, and drivers into a single platform. | Spring Boot, Angular, PostgreSQL |
-| **HotelsCombined Android App** | Instantly finds the best hotel rates by comparing prices from hundreds of travel sites in one search. | Android (Java), Ruby on Rails |
-
----
-
 ### 📫 Get In Touch
 
 - **LinkedIn:** [linkedin.com/in/kevintanhongann](https://www.linkedin.com/in/kevintanhongann/)
