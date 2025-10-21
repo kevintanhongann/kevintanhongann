@@ -45,18 +45,6 @@
 - **Action:** Use AI to architect and develop their tech solutions   
 - **Result:** Productivity went up handling various projects using AI and vibe engineering techniques
 
-**TapPrint Sdn Bhd – CTO** | _2023–2024_
-- **Situation**: Spearheaded the development of a SaaS quotation platform for the printing industry.  
-- **Technology**: Spring Boot, Vue.js, PostgreSQL, Liquibase, Python.  
-- **Action**: Designed and built the entire platform from scratch, implemented key features for quote generation, and ensured seamless system integration with existing industry tools.  
-- **Result**: Reduced quote generation time by 50%, and improved operational efficiency for users. Still in the process of getting more customers.
-
-**Fotia Solutions – Senior Developer Contractor** | _2022–2023_
-- **Situation**: Led a large-scale data migration for the Department of Statistics Malaysia (DOSM).  
-- **Technology**: Python, PostgreSQL, Jenkins.  
-- **Action**: Designed and implemented data-cleaning algorithms to migrate census data while ensuring zero data loss.  
-- **Result**: Successfully migrated 10 million+ data records, reducing manual data entry errors by 90%.
-
 ---
 
 ### 📫 Get In Touch
