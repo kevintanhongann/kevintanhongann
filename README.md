@@ -1,0 +1,75 @@
+<h1 align="center">Hi there, I'm Kevin Tan 👋</h1>
+<p align="center">
+  <a href="https://github.com/kevintanhongann">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/kevintanhongann/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/kevintanhongann">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<p align="center">
+  A seasoned software developer and technical leader with 14 years of experience specializing in SaaS platforms, mobile, and web development. Demonstrated success in leading cross-functional teams, architecting complex solutions, and driving business outcomes through innovative technologies. Expertise spans a wide range of technologies, including Spring Boot, jHipster, Vue.js, and Java, with a proven track record of delivering high-impact, scalable solutions across diverse industries.
+</p>
+
+---
+
+### 🚀 Core Competencies
+
+- **Languages/Frameworks**: Spring Boot, jHipster, Java, Kotlin, Grails, Vue.js, React, Groovy, Python, Ruby on Rails, FastAPI  
+- **Web Technologies**: HTML, CSS, JavaScript, TypeScript, Thymeleaf, jQuery, Cypress, Twitter Bootstrap  
+- **Databases**: PostgreSQL, Oracle DB, MySQL, Firebase  
+- **DevOps Tools**: Jenkins, Gradle, Liquibase, Openshift Container Platform  
+- **Cloud/Infrastructure**: AWS, Websphere, Docker, Kubernetes, Solace MQ, Digital Ocean, Cloudflare  
+- **Project Management**: Agile, Scrum, Kanban, Waterfall
+
+---
+
+### � My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevintanhongann&show_icons=true&theme=radical" alt="Kevin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintanhongann&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 💼 Professional Experience
+
+**Pragmatic Innovations - Technical Founder** | _2024 - 2025_
+- **Situation**: Working as a technology partner (development and architecture work) with Mole and Reka Studios with various projects including the Mole admin dashboard and their upcoming event organizing product, a real estate dashboard project, and fashion virtual tryon project with their fashion industry clients  
+- **Technology**: Spring Boot, Vuejs, React, Postgresql, Liquibase, Python, Java, Groovy, Sourcegraph Cody AI & Amp, Cline/Roo Code/Kilo Code, Digital Ocean, AWS, Python FastAPI, React Native  
+- **Action:** Use AI to architect and develop their tech solutions   
+- **Result:** Productivity went up handling various projects using AI and vibe engineering techniques
+
+**TapPrint Sdn Bhd – CTO** | _2023–2024_
+- **Situation**: Spearheaded the development of a SaaS quotation platform for the printing industry.  
+- **Technology**: Spring Boot, Vue.js, PostgreSQL, Liquibase, Python.  
+- **Action**: Designed and built the entire platform from scratch, implemented key features for quote generation, and ensured seamless system integration with existing industry tools.  
+- **Result**: Reduced quote generation time by 50%, and improved operational efficiency for users. Still in the process of getting more customers.
+
+**Fotia Solutions – Senior Developer Contractor** | _2022–2023_
+- **Situation**: Led a large-scale data migration for the Department of Statistics Malaysia (DOSM).  
+- **Technology**: Python, PostgreSQL, Jenkins.  
+- **Action**: Designed and implemented data-cleaning algorithms to migrate census data while ensuring zero data loss.  
+- **Result**: Successfully migrated 10 million+ data records, reducing manual data entry errors by 90%.
+
+---
+
+### ✨ Featured Projects
+
+| Project Name | Description | Technologies | Link |
+|--------------|-------------|--------------|------|
+| **Invoice Financing Platform** | A SaaS web application to facilitate SMEs in selling invoices to funders, pitched to major clients like Petronas. | Grails, PostgreSQL, AWS |
+| **Haulage SaaS Platform** | A logistics application connecting haulage operators, freight forwarders, and drivers into a single platform. | Spring Boot, Angular, PostgreSQL |
+| **HotelsCombined Android App** | Instantly finds the best hotel rates by comparing prices from hundreds of travel sites in one search. | Android (Java), Ruby on Rails |
+
+---
+
+### 📫 Get In Touch
+
+- **LinkedIn:** [linkedin.com/in/kevintanhongann](https://www.linkedin.com/in/kevintanhongann/)
+- **Email:** [kevintanhongann@gmail.com](mailto:kevintanhongann@email.com)
