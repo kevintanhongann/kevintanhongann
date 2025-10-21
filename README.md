@@ -40,7 +40,7 @@
 ### 💼 Professional Experience
 
 **Pragmatic Innovations - Technical Founder** | _2024 - 2025_
-- **Situation**: Working as a technology partner (development and architecture work) with Mole and Reka Studios with various projects including the Mole admin dashboard and their upcoming event organizing product, a real estate dashboard project, and fashion virtual tryon project with their fashion industry clients  
+- **Situation**: Working as a technology partner (development and architecture work) with Mole and Reka Studios with various projects including the Mole admin dashboard and their upcoming event organizing product, a real estate dashboard project, and projects with their fashion industry clients  
 - **Technology**: Spring Boot, Vuejs, React, Postgresql, Liquibase, Python, Java, Groovy, Sourcegraph Cody AI & Amp, Cline/Roo Code/Kilo Code, Digital Ocean, AWS, Python FastAPI, React Native  
 - **Action:** Use AI to architect and develop their tech solutions   
 - **Result:** Productivity went up handling various projects using AI and vibe engineering techniques
