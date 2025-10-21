@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/kevintanhongann/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/kevintanhongann">
+  <a href="https://twitter.com/s1lv3rd3m0n">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
@@ -72,4 +72,4 @@
 ### 📫 Get In Touch
 
 - **LinkedIn:** [linkedin.com/in/kevintanhongann](https://www.linkedin.com/in/kevintanhongann/)
-- **Email:** [kevintanhongann@gmail.com](mailto:kevintanhongann@email.com)
+- **Email:** [pragmaticinnovations2024@gmail.com](mailto:pragmaticinnovations2024@email.com)
